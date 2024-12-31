@@ -1,0 +1,13 @@
+{
+    "workbench.colorCustomizations": {
+    "editorCursor.foreground": "#D8D8D8",
+    "terminalCursor.foreground": "#D8D8D8"
+    },
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontLigatures": true,
+    
+    "files.associations": {
+        "stdio.h": "c"
+        
+    }
+}
