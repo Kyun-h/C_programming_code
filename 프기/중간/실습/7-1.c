@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void){
-    int a=99,cnt=0;
+    int a=9999,cnt=0;
     int ary[100]={ 0,0 };
 
     int i=0;
