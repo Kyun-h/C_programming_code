@@ -38,7 +38,7 @@ void sort(char strings[][MAX_LEN], int count)
     {
         for (int i = 0; i < count-1; i++)
         {
-            if (strings[i][0] > strings[i + 1][0])
+            if (strcmp(strings[i],strings[i + 1])>0)
             {
                 char temp[MAX_LEN];
                 strcpy(temp,strings[i]);
