@@ -1,3 +1,4 @@
+//realloc 활용
 #include <stdio.h>
 #include <stdlib.h>
 
